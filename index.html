@@ -1,0 +1,23 @@
+---
+layout: default
+title: '"NaMOXK"'
+---
+
+<h2>Bem vindo(a)! 👋</h2>
+<p>Olá! Eu sou Filipe Mosca e esse é meu jardim virtual 🌱. Que isso? É uma espécie de mural digital que posso ir construíndo aos poucos, todas as páginas estão sempre em atualização. Aqui compartilho listas, notas e artigos sobre medicina, filosofia, literatura, cinema, quadrinhos, tecnologia e o que mais der vontade.</p>
+
+<p><b>Achou esse site feio?</b> A minha filosofia é ter um site extremamente simples e leve focado apenas em exibir conteúdo. O site é praticamente puro HTML. Adoro essa sensação de nostalgia dos velhos tempos da web quando todos os sites eram assim.</p>
+
+<h2>Minhas redes:</h2>
+<ul>
+  <li>🐦 <a href="https://twitter.com/filipemosca" target="blank">Twitter</a></li>
+  <li>🎥 <a href="https://letterboxd.com/filipemosca/">Letterboxd</a></li>
+  <li>💻 <a href="https://github.com/filipemosca">Github</a></li>
+</ul>
+
+
+<h2>Futebol ⚽</h2>
+{% for page in site.categories.futebol %}
+  <span>{{ page.date | date_to_string }} — <a href="{{ page.url }}">{{ page.title }}</a></span><br>
+{% endfor %}
+
