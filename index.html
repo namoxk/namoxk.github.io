@@ -1,6 +1,6 @@
 ---
 layout: default
-title: '"NaMOXK"'
+title: NaMOXK
 ---
 
 <h2>Bem vindo(a)! 👋</h2>
@@ -15,8 +15,9 @@ title: '"NaMOXK"'
   <li>💻 <a href="https://github.com/filipemosca">Github</a></li>
 </ul>
 
-
 <h2>Futebol ⚽</h2>
+<p>Ano de copa!!! Torço pro <img src="/img/futebol/nau_favicon.png" alt=""> <a style="color: red" href="https://pt.wikipedia.org/wiki/Clube_N%C3%A1utico_Capibaribe">Clube Náutico Capibaribe</a> e aqui escrevo minhas análises amadoras do futebol do Náutico e da <img src="/img/futebol/cbf_favicon.png" alt=""> <span style="color: green">Seleção Brasileira</span>.</p>
+
 {% for page in site.categories.futebol %}
   <span>{{ page.date | date_to_string }} — <a href="{{ page.url }}">{{ page.title }}</a></span><br>
 {% endfor %}
