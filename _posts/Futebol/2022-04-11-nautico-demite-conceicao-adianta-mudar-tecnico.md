@@ -45,4 +45,4 @@ Em breve pretendo ler mais sobre as ciências estatísticas no futebol e elabora
 
 ## Referências
 
-[^Heuer]: Heuer A, Müller C, Rubner O, Hagemann N, Strauss B (2011) **Usefulness of Dismissing and Changing the Coach in Professional Soccer**. PLOS ONE 6(3): e17664. https://doi.org/10.1371/journal.pone.0017664 
+[^Heuer]: Heuer A, Müller C, Rubner O, Hagemann N, Strauss B (2011) **Usefulness of Dismissing and Changing the Coach in Professional Soccer**. PLOS ONE 6(3): e17664. <https://doi.org/10.1371/journal.pone.0017664>
