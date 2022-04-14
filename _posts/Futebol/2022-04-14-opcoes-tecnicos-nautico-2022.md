@@ -7,6 +7,7 @@ Essa [reportagem do GE listou algumas opções de técnicos que estão diponíve
 
 Peguei nome por nome dos técnicos da lista e fui avaliar friamente os números de vitórias, empates e derrotas de cada um. Abaixo filtrei os nomes com os **melhores desempenhos (porcentagens de V, E, D; respectivamente):**
 
+* [Tiago Nunes](https://www.sofascore.com/manager/tiago-nunes/790357) (47.95%, 24.66%, 27.40% em 146 jogos)
 * [Vanderlei Luxemburgo](https://www.sofascore.com/manager/vanderlei-luxemburgo/784871) (44.64%, 26.50%, 28.86% em 634 jogos)
 * [Enderson Moreira](https://www.sofascore.com/manager/enderson-moreira/149578) (43.16%, 24.21%, 32.63% em 380 jogos)
 * [Mano Menezes](https://www.sofascore.com/manager/mano-menezes/108391) (44.95%, 23.85%, 31.19% em 436 jogos)
@@ -16,6 +17,8 @@ Peguei nome por nome dos técnicos da lista e fui avaliar friamente os números 
 Sou bem cartesiano e prefiro confiar nos números do que na intuição de que algum nome possa ser uma boa ideia.
 
 Destes nomes, eu gostaria muito de ter um **Luxemburgo** (mas acho bem, bem, bem difícil) ou um **Ederson Moreira** como técnico. Em especial o Ederson, **em 2021 fez uma ótima campanha com o Botafogo na série B, sendo campeão** e consequentemente conseguindo o acesso à série A (20 vitórias, 7 empates e 4 derrotas); isso mostra que experiência com a série B ele tem.
+
+**Tiago Nunes** foi um nome que peguei no Twitter. Ele apresenta números muito bons. Seu último clube foi o Ceará onde foi demitido após eliminação do Nordestão apesar de apresentar um ótimo desempenho (32 jogos com 14 vitórias, 11 empates e só 7 derrotas). Acho que seria uma ótima opção pra Náutico. O técnico cometeu um deslize? Sim, mas no geral apresenta uma ótima consistência de resultados.
 
 Os **demais nomes listados na reportagem apresentam números de desempenho bem ruins** (Jair Ventura, Lisca, Marquinhos Santos, Fernando Diniz, Dado Cavalcanti, Alberto Valentim, Thiago Larghi, Roberto Fernandes... 😩). Para ver um por um é só pesquisar no site do SofaScore.
 
