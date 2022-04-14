@@ -24,7 +24,7 @@ Os **demais nomes listados na reportagem apresentam números de desempenho bem r
 
 [Marcelo Oliveira](https://www.sofascore.com/manager/marcelo-oliveira/241308) é um nome que apesar de ter desempenho geral bom (ótima campanha pelo Cruzeiro entre 2012 e 2015), está há 5 anos sem apresentar bons resultados.
 
-Um medo é contratarem o [Roberto Fernandes](https://www.sofascore.com/manager/roberto-fernandes/785875) que apresenta desempenho horrível, tendo até rebaixado o Santa Cruz pra série D.
+Um medo é contratarem o [Roberto Fernandes](https://www.sofascore.com/manager/roberto-fernandes/785875) que apresenta desempenho horrível, tendo até rebaixado o Santa Cruz pra série D (após 15 partidas com 2V, 5E, 8D).
 
 Dos técnicos mais acessíveis e que caberiam no orçamento do Náutico, acho que **Ney Franco** seria a opção mais pragmática, se apoiando friamente nos números. Claro que tem que avaliar também a questão do relacionamento e adaptação com o resto da equipe do clube.
 
